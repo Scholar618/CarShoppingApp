@@ -1,0 +1,22 @@
+{
+  "src": [
+    "pages/LoginPage",
+    "pages/MainPage",
+    "pages/RegisterPage",
+    "pages/mainpages/MyFavoritePage",
+    "pages/mainpages/Heat",
+    "pages/mainpages/NewCar",
+    "pages/mainpages/Shopping",
+    "pages/mainpages/CarKnowledge",
+    "pages/mainpages/NewEnergy",
+    "pages/mainpages/SaleCar",
+    "pages/mainpages/FeedBack",
+    "pages/mainpages/User",
+    "pages/mainpages/UpdateImformation",
+    "pages/mainpages/UpdatePwd",
+    "pages/mainpages/RegUser",
+    "pages/mainpages/ForgetPwd",
+    "pages/mainpages/DelUser",
+    "pages/mainpages/SearchCar"
+  ]
+}
